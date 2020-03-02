@@ -1,2 +1,2 @@
 # teknakurs
-dette er eb demo
+dette er en demo
